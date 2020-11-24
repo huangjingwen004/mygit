@@ -1,3 +1,0 @@
-helloWord
-hello git 
-my love
